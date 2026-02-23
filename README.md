@@ -2,7 +2,7 @@
 
 HAProxy ingress annotation rewriter for [helmfile2compose](https://github.com/helmfile2compose/helmfile2compose) — translates `haproxy.org/*` Ingress annotations into reverse proxy entries. Also serves as the default fallback rewriter for unclassified Ingress resources.
 
-**The Herald** — one of the Seven Bishops, the founding extensions of the helmfile2compose distribution.
+**The Herald** — one of the Eight Monks, the founding extensions of the helmfile2compose distribution.
 
 > Heresy level: 2/10 — announces what others have decreed, translates annotations into action.
 
